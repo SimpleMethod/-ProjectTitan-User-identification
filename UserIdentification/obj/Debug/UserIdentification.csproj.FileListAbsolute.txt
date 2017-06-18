@@ -1,0 +1,18 @@
+c:\users\michal\documents\visual studio 2017\Projects\UserIdentification\UserIdentification\bin\Debug\UserIdentification.exe.config
+c:\users\michal\documents\visual studio 2017\Projects\UserIdentification\UserIdentification\bin\Debug\UserIdentification.exe
+c:\users\michal\documents\visual studio 2017\Projects\UserIdentification\UserIdentification\bin\Debug\UserIdentification.pdb
+c:\users\michal\documents\visual studio 2017\Projects\UserIdentification\UserIdentification\obj\Debug\UserIdentification.csprojResolveAssemblyReference.cache
+c:\users\michal\documents\visual studio 2017\Projects\UserIdentification\UserIdentification\obj\Debug\UserIdentification.exe
+c:\users\michal\documents\visual studio 2017\Projects\UserIdentification\UserIdentification\obj\Debug\UserIdentification.pdb
+D:\Gra\UserIdentification\UserIdentification\bin\Debug\UserIdentification.exe.config
+D:\Gra\UserIdentification\UserIdentification\bin\Debug\UserIdentification.exe
+D:\Gra\UserIdentification\UserIdentification\bin\Debug\UserIdentification.pdb
+D:\Gra\UserIdentification\UserIdentification\obj\Debug\UserIdentification.csprojResolveAssemblyReference.cache
+D:\Gra\UserIdentification\UserIdentification\obj\Debug\UserIdentification.exe
+D:\Gra\UserIdentification\UserIdentification\obj\Debug\UserIdentification.pdb
+F:\Gra\UserIdentification\UserIdentification\bin\Debug\UserIdentification.exe.config
+F:\Gra\UserIdentification\UserIdentification\bin\Debug\UserIdentification.exe
+F:\Gra\UserIdentification\UserIdentification\bin\Debug\UserIdentification.pdb
+F:\Gra\UserIdentification\UserIdentification\obj\Debug\UserIdentification.csprojResolveAssemblyReference.cache
+F:\Gra\UserIdentification\UserIdentification\obj\Debug\UserIdentification.exe
+F:\Gra\UserIdentification\UserIdentification\obj\Debug\UserIdentification.pdb
