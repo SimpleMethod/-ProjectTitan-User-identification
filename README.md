@@ -4,4 +4,3 @@ Aplikacja umożliwiająca stworzenie unikalnego identyfikatora użytkownika
 ## Użycie ##
 Program za pomocą socketów łączy się z grą i przekazuje jej unikalny identyfikator, który jest wynikiem mieszania numeru seryjnego CPU i płyty głównej komputera.
 - - - -
-Całość projektu dostępna tutaj: https://github.com/SimpleMethod/-Retail-version-ProjectTitan-
