@@ -1,6 +1,6 @@
-# Komponent do projektu Titan #
-Aplikacja umożliwiająca stworzenie unikalnego identyfikatora użytkownika
+# Project Titan User identification #
+Application that allows to create a unique user ID
 - - - -
-## Użycie ##
-Program za pomocą socketów łączy się z grą i przekazuje jej unikalny identyfikator, który jest wynikiem mieszania numeru seryjnego CPU i płyty głównej komputera.
+## Usage ##
+he program connects to the game using sockets and transmits its unique identifier, which is the result of mixing the serial number of the CPU and the motherboard of the computer.
 - - - -
